@@ -7,7 +7,7 @@
 		HostName <target_machine_ip_address>
 		User <username>
 		IdentityFile <private_key_file>
-		Port <target_machine_port_number>`
+		Port <target_machine_port_number>
 ```
 
 3. example :
