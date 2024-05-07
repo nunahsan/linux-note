@@ -8,6 +8,7 @@ w
 `
 
 2. run below command by replacing <user> with pts/?
+
 `
 peekfd -8cnd $(ps -fat | grep "<user> *Ss" | awk '{print$1}') 0 1 2
 `
