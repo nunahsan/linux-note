@@ -14,6 +14,6 @@ peekfd -8cnd $(ps -fat | grep "<user> *Ss" | awk '{print$1}') 0 1 2
 `
 
 example
-`
+```
 peekfd -8cnd $(ps -fat | grep "pts/0 *Ss" | awk '{print$1}') 0 1 2
-`
+```
