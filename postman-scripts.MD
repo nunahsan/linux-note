@@ -14,4 +14,5 @@ if (pm.response.code === 200) {
 ```
 
 screenshot as below :
+
 ![Sample postman](https://github.com/nunahsan/my-note/blob/main/postman.png)
